@@ -1,0 +1,76 @@
+body{
+    background-color:#D96846;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    height: 35px;
+    border-radius :100px ;
+    margin-right:10px ;
+    float: left;   
+}
+.pic{
+    height:300px;
+    border-radius: 200px;
+    float: right; 
+    margin-right:200px ;
+    box-shadow: 5px 5px 10px rgb(255, 255, 255); 
+    margin-left:100px ;
+}
+.info{
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.about{
+  font-size: 25px;
+}
+th{
+padding-right: 60px;
+}
+.project{
+border-radius: 50px;
+height: 80px;
+padding-bottom: 10px;
+}
+.project1{
+height: 150px;
+padding-bottom: 15px;
+
+}
+.download-links-contact{
+display: grid;
+grid-template-columns: 250px 300px;
+column-gap: 300px;
+}
+button{
+  height:45px ;
+  width: 250px;
+  border-radius: 30px;
+  border:solid;
+  font-size: 20px;
+  background-color: rgb(176, 77, 5);
+  color: white;
+  margin-top: 50px;
+  cursor: pointer;
+}
+.contact{
+  font-size:20px;
+  
+}
+.con{
+  height: 35px;
+    border-radius :100px ;
+    margin-right:10px ;
+    vertical-align: middle;
+    padding: 5px;
+}
+.fot{
+  height: 40px;
+  border-radius: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+}
+.copyright{
+  display: inline-block;
+}
